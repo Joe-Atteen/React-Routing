@@ -5,7 +5,7 @@ const ServiceDetails = () => {
   return (
     <div>
       <h1>Service Details</h1>
-      <p>This is the service details page for service {id}.</p>
+      <p>This is the service details page for {id}.</p>
     </div>
   );
 };

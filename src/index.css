@@ -18,6 +18,14 @@
   border-bottom: 1px solid #f2f2f2;
 }
 
+.links a {
+  text-decoration: none;
+}
+
+.links a:hover {
+  color: #f1356d;
+}
+
 .home,
 .about,
 .contact,
@@ -34,4 +42,8 @@ p {
 
 h1 {
   color: #f1356d;
+}
+
+p {
+  font-weight: 600;
 }

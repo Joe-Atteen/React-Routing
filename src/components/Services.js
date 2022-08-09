@@ -6,7 +6,7 @@ const Services = () => {
       <h1>Services</h1>
       <p>
         This is the services page. We provide the following{" "}
-        <Link className="link" to="/servicedetails:id">
+        <Link className="link" to="/servicedetails services">
           services
         </Link>
       </p>
